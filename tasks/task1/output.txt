@@ -1,0 +1,1 @@
+Device{width=48, height=58, name='gyujikohui'}
