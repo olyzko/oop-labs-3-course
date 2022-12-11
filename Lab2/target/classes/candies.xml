@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="candies.xsd">
+    <candy id="1">
+        <name>Romashka</name>
+        <energy>3500</energy>
+        <type>chocolate</type>
+        <value>
+            <protein>1520</protein>
+            <fats>225</fats>
+            <hydrocarbonates>920</hydrocarbonates>
+        </value>
+        <ingredients>
+            <water>420</water>
+            <sugar>15</sugar>
+            <fructose>200</fructose>
+            <chocolateType>black</chocolateType>
+            <vanille>130</vanille>
+        </ingredients>
+        <production>Roshen</production>
+    </candy>
+
+    <candy id="2">
+        <name>Vechirniy Kyiv</name>
+        <energy>4200</energy>
+        <type>chocolate</type>
+        <value>
+            <protein>1700</protein>
+            <fats>180</fats>
+            <hydrocarbonates>1155</hydrocarbonates>
+        </value>
+        <ingredients>
+            <water>300</water>
+            <sugar>620</sugar>
+            <fructose>350</fructose>
+            <chocolateType>milk</chocolateType>
+            <vanille>120</vanille>
+        </ingredients>
+        <production>Roshen</production>
+    </candy>
+
+    <candy id="3">
+        <name>Super Kontik</name>
+        <energy>7500</energy>
+        <type>chocolate</type>
+        <value>
+            <protein>2500</protein>
+            <fats>300</fats>
+            <hydrocarbonates>1500</hydrocarbonates>
+        </value>
+        <ingredients>
+            <water>530</water>
+            <sugar>520</sugar>
+            <fructose>420</fructose>
+            <chocolateType>black</chocolateType>
+            <vanille>300</vanille>
+        </ingredients>
+        <production>Konti</production>
+    </candy>
+
+
+    
+</candies>
